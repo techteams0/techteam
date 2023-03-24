@@ -1,7 +1,6 @@
 # MOSINT
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alpkeskin/mosint/master/banner.png" width="500" title="mosint">
+<img src="https://raw.githubusercontent.com/alpkeskin/mosint/master/banner2-3.png" width="500" title="mosint">
 </p>
 
 ## What is the MOSINT
